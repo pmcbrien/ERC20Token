@@ -1,4 +1,6 @@
-REMIX EXAMPLE PROJECT
+REMIX PROJECT- COM. Patrick McBrien & Nathanial Millet. XOM.APP. This is an ethereum token that can be use with an augmented reality and 3d experience over media mobile application that uses a camera and LIDAR to scan ones environment to present 3d objects and market products from large retailers Walmart, Amazon, Google, Nike, and individuals using the app can also create their very own 3d digital objects to sell for XomTokens on the app. It is powered by Google Firebase.
+
+mcbrien007@gmail.com
 
 Remix example project is present when Remix loads very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
