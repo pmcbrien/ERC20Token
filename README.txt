@@ -2,6 +2,14 @@ REMIX PROJECT- COM. Patrick McBrien & Nathanial Millet. XOM.APP. This is an ethe
 
 mcbrien007@gmail.com
 
+Main Ethereum Wallet Adddress. 0xE0f724644d6975ad1A7B18e0F12Db81d0F0da03a
+
+What is an ERC20 token?
+
+An ERC20 token is a blockchain-based asset with similar functionality to bitcoin, ether, and bitcoin cash: it can hold value and be sent and received.
+The major difference between ERC20 tokens and other cryptocurrencies is that ERC20 tokens are created and hosted on the Ethereum blockchain, whereas bitcoin and bitcoin cash are the native currencies of their respective blockchains.
+ERC20 tokens are stored and sent using ethereum addresses and transactions, and use gas to cover transaction fees.
+
 Remix example project is present when Remix loads very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
 
